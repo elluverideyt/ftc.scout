@@ -34,7 +34,7 @@ const googleAPIConstants = {
     "https://script.google.com/macros/s/AKfycbxj9pjLFR1K_3bG3mgi50MYmYha7iH2D8bIUcsHXfz8l8Kq1_h8o3KikmPb6JDyFEgv3Q/exec",
 };
 
-const enableMemes = true; // whether or not to enable the 'silly' features
+const enableMemes = false; // whether or not to enable the 'silly' features
 
 const editViewSections = [
   {
